@@ -1,0 +1,6 @@
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\bin\Debug\ObligatoryHelloWorld.exe.config
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\obj\Debug\ObligatoryHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\bin\Debug\ObligatoryHelloWorld.exe
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\bin\Debug\ObligatoryHelloWorld.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\obj\Debug\ObligatoryHelloWorld.exe
+c:\users\kyle\documents\visual studio 2013\Projects\ObligatoryHelloWorld\ObligatoryHelloWorld\obj\Debug\ObligatoryHelloWorld.pdb
