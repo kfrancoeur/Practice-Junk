@@ -1,0 +1,11 @@
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\bin\Debug\SimpleWeatherTest.exe.config
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.Properties.Resources.resources
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.csproj.GenerateResource.Cache
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\bin\Debug\SimpleWeatherTest.exe
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\bin\Debug\SimpleWeatherTest.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.exe
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\obj\Debug\SimpleWeatherTest.WeatherWindow.resources
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyle\Documents\Visual Studio 2013\Projects\SimpleWeatherTest\SimpleWeatherTest\bin\Debug\Newtonsoft.Json.xml
