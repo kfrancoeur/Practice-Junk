@@ -12,13 +12,13 @@ namespace Conversions
     //Fahrenheit to...
     
         // Celsius
-        static double FToC(double f)
+        public static double FToC(double f)
         {
             return (f - 32) / 1.8;
         }
 
         //Kelvin
-        static double FToK(double f)
+        public static double FToK(double f)
         {
             return CToK(FToC(f));
 
@@ -26,7 +26,7 @@ namespace Conversions
 
         //I didn't know "Rankine" existed before today, but here it is.
         //Rankine
-        static double FToR(double f)
+        public static double FToR(double f)
         {
             return f + 459.67;
         }
@@ -34,19 +34,19 @@ namespace Conversions
     //Celsius to...
 
         //Fahrenheit
-        static double CToF(double c)
+        public static double CToF(double c)
         {
             return (c * 1.8) + 32;
         }
 
         //Kelvin
-        static double CToK(double c)
+        public static double CToK(double c)
         {
             return c + 273.15;
         }
 
         //Rankine
-        static double CToR(double c)
+        public static double CToR(double c)
         {
             return FToR(CToF(c));
         }
@@ -54,48 +54,48 @@ namespace Conversions
     //Kelvin to...
 
         //Celsius
-        static double KToC(double k)
+        public static double KToC(double k)
         {
             return k - 273.15;
         }
 
         //Fahrenheit
-        static double KToF(double k)
+        public static double KToF(double k)
         {
             return CToF(KToC(k));
         }
 
         //Rankine
-        static double KToR(double k)
+        public static double KToR(double k)
         {
-            return FToR(KToF(k));
+            return k * 1.8 ;
         }
 
     //Rankine to...
 
         //Celsius
-        static double RToC(double r)
+        public static double RToC(double r)
         {
             return FToC(RToF(r));
 
         }
 
         //Fahrenheit
-        static double RToF(double r)
+        public static double RToF(double r)
         {
             return r - 459.67;
         }
 
         //Kelvin
-        static double RToK(double r)
+        public static double RToK(double r)
         {
-            return CToK(RToC(r));
+            return r / 1.8;
         }
     }
 
-    static class Distance
+    /*static class Distance
     {
-
-    }
+        //I'll implement it if I ever need it.
+    }*/
 
 }
